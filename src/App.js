@@ -114,9 +114,6 @@ const App = () => {
               </>
             ) : (
               <>
-                <div className="bg-white text-blue-500 w-fit mx-auto p-4 rounded-full">
-                  <BsTelephoneFill size={30} />
-                </div>
                 <label
                   htmlFor=""
                   className="font-bold text-xl text-white text-center"
